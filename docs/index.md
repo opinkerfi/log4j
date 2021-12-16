@@ -96,7 +96,7 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | 1Password | Óvíst | 15.12.21 | Opinber tilkynning ekki komin, en gefið til kynna að það sé í lagi | https://1password.community/discussion/comment/622615 |
 | Citrix Hypervisor (XenServer) | Í lagi | 15.12.21 | XenServer er í lagi | https://support.citrix.com/article/CTX335705
 | Citrix Virtual Apps and Desktops (XenApp & XenDesktop) | Í skoðun | 15.12.21 | Er í greiningu hjá framleiðanda | https://support.citrix.com/article/CTX335705
-| Ahsay | | 15.12.21 | AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi | https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j |
+| Ahsay | | 15.12.21 | AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi | | https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j |
 | TimeXtender | Í lagi | 15.12.21 |  | https://support.timextender.com/hc/en-us/articles/4413724826897-Apache-Log4j | 
 | MongoDB Atlas Search | Berskjaldað + fix | 15.12.21 |  | https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb |
 | MongoDB aðrar vörur | Í lagi | 15.12.21 | | | 
@@ -106,3 +106,4 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Solarwinds Database Performance Analyzer | Berskjaldað + fix |  15.12.21 | | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
 | Solarwinds Orion Platform | Í lagi | 15.12.21 |  | |
 | Enghouse QMS | Berskjaldað | 16.12.21 | | https://github.com/opinkerfi/log4j/blob/560ff977d620513bf82f4eea15b4d863736bc9b1/docs/EXTERNAL_QMS_Enghouse_Log4j_vulnerability_statement_131221.pdf |
+| Tableau / Tableau Reader, Tableau Public Desktop Client | Berskjaldað | 16.12.21 | | https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell |
