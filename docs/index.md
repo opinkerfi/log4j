@@ -2,7 +2,7 @@
 
 ## Upplýsingar
 
-Þann 9. desember var opinberaður alvarlegur veikleiki ([CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)) í hugbúnaðarpakka sem kallast Apache Log4j. Þessi hugbúnaður er notaður sem hjálpartól í mörgum þekktum og útbreiddum hugbúnaði. Um er að ræða Java hugbúnað sem finnst á fjölmörgum stöðum á internetinu og innan fyrirtækja.
+Þann 9. desember var opinberaður alvarlegur veikleiki ([CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228) & [CVE-2021-45046](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046)) í hugbúnaðarpakka sem kallast Apache Log4j. Þessi hugbúnaður er notaður sem hjálpartól í mörgum þekktum og útbreiddum hugbúnaði. Um er að ræða Java hugbúnað sem finnst á fjölmörgum stöðum á internetinu og innan fyrirtækja.
 
 Hlutverk Log4j sem hjálpartól er að halda utan um og skrá upplýsingar sem geta meðal annars verið upplýsingar sem notendur kerfa t.d. vefkerfa láta frá sér, en getur einnig verið upplýsingar sem geta komið í gegnum tölvupóst eða aðrar leiðir svo lengi sem Log4j er að taka við upplýsingunum.
 
@@ -34,6 +34,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 ### Nánari upplýsingar:
 
 * [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
+* [CVE-2021-45046](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046)
 * [Fjarskiptastofa – Netöryggssveitin CERT-IS hefur virkjað samhæfingarferli vegna alvarlegs veikleika í algengum hugbúnaði](https://www.fjarskiptastofa.is/fjarskiptastofa/tolfraedi-og-gagnasafn/frettasafn/frett/fr%C3%A9ttir/netoryggssveitin-cert-is-hefur-virkjad-samhaefingarstod-vegna-alvarlegs-veikleika-i-algengum-hugbunadi)
 
 ### Ráðleggingar eða yfirlýsingar frá birgjum:
