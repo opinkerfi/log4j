@@ -50,7 +50,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 * [VMWare](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)
 * [Unifi](https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1)
 * [VEEAM](https://forums.veeam.com/veeam-backup-for-azure-f59/log4j-cve-2021-44228-vulnerability-t78225.html#p438231)
-* [Atlassian](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html)
+* [Atlassian](https://confluence.atlassian.com/security/multiple-products-security-advisory-log4j-vulnerable-to-remote-code-execution-cve-2021-44228-1103069934.html)
 * [CloudFlare](https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/)
 * [Ahsay](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j)
 * [Solarwinds](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228)
@@ -107,3 +107,10 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Solarwinds Orion Platform | Í lagi | 15.12.21 |  | |
 | Enghouse QMS | Berskjaldað | 16.12.21 | | https://github.com/opinkerfi/log4j/blob/560ff977d620513bf82f4eea15b4d863736bc9b1/docs/EXTERNAL_QMS_Enghouse_Log4j_vulnerability_statement_131221.pdf |
 | Tableau / Tableau Reader, Tableau Public Desktop Client | Berskjaldað | 16.12.21 | | https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell |
+| ATlassian Bitbucket Server | Berskjaldað | 16.12.21 | | |
+| Atlassian Confluence | Í lagi | 16.12.21 | | |
+| Atlassian Jira | Í lagi | 16.12.21 | | |
+| Splunk viðbætur | Berskjaldað | 16.12.21 | | https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html| 
+| Jenksins | Í lagi | 16.12.21 | Jenksins er í lagi, en skoða þarf viðbætur sérstaklega vel | https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/ |
+| Discord | Upplýsinagr vantar | 16.12.21 | | |
+| Apache Kafka | Í lagi | 16.12.21 | |https://kafka.apache.org/cve-list | 
