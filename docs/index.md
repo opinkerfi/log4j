@@ -112,5 +112,5 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Atlassian Jira | Í lagi | 16.12.21 | | |
 | Splunk viðbætur | Berskjaldað | 16.12.21 | | https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html| 
 | Jenksins | Í lagi | 16.12.21 | Jenksins er í lagi, en skoða þarf viðbætur sérstaklega vel | https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/ |
-| Discord | Upplýsinagr vantar | 16.12.21 | | |
+| Discord | Uppl vantar | 16.12.21 | | |
 | Apache Kafka | Í lagi | 16.12.21 | |https://kafka.apache.org/cve-list | 
