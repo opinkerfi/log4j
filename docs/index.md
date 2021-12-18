@@ -94,6 +94,7 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | HPE Hyper Converged 380 All versions | Berskjaldað | 15.12.21|| HPE vinnur að lausn  |
 | HPE 3PAR Service Processor All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
 | Nagios | Í lagi | 15.12.21 | Nagios Core og Nagios XI | https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/ |
+| Zabbix | Í lagi | 18.12.21 | Vöktunarkerfið Zabbix | https://blog.zabbix.com/zabbix-not-affected-by-the-log4j-exploit/17873/ |
 | 1Password | Óvíst | 15.12.21 | Opinber tilkynning ekki komin, en gefið til kynna að það sé í lagi | https://1password.community/discussion/comment/622615 |
 | Citrix Hypervisor (XenServer) | Í lagi | 15.12.21 | XenServer er í lagi | https://support.citrix.com/article/CTX335705
 | Citrix Virtual Apps and Desktops (XenApp & XenDesktop) | Í skoðun | 15.12.21 | Er í greiningu hjá framleiðanda | https://support.citrix.com/article/CTX335705
