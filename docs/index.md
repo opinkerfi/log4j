@@ -117,3 +117,5 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Jenksins | Í lagi | 16.12.21 | Jenksins er í lagi, en skoða þarf viðbætur sérstaklega vel | https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/ |
 | Discord | Uppl vantar | 16.12.21 | | |
 | Apache Kafka | Í lagi | 16.12.21 | |https://kafka.apache.org/cve-list | 
+| Plex | Í lagi* | 18.12.21 | Formlega tilkynningu vantar frá framleiðanda | https://www.reddit.com/r/PleX/comments/rdolem/the_internet_is_on_fire_with_this_log4j/ |
+| Plesk | https://support.plesk.com/hc/en-us/articles/4412182812818-CVE-2021-44228-vulnerability-in-log4j-package-of-Apache |
