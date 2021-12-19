@@ -123,3 +123,5 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Red Hat Ansible | Í lagi | 19.12.21 | | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 | 
 | Red Hat ýmsar vörur | Í lagi | 19.12.21 | m.a. Certificate Sysetm, Directory Server, CloudForms, Satellite, Ceph, Gluster, Openstack platform (fyrir utan 13), RHEV | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 |
 | Red Hat ýmsar vörur | Berskjaldað | 19.12.21 | m.a. Red Hat Enterprise Application Platform 7, Openshift 4, Openshift 3.11, Fuse, OpenShift Logging, Openstack Platform 13, Process Automation Manager | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 |
+| Elasticserach | Berskjaldað | 19.12.21 | | https://discuss.elastic.co/t/elasticsearch-5-0-0-5-6-10-and-6-0-0-6-3-2-log4j-cve-2021-44228-cve-2021-45046-remediation/292054 |
+| Zammad | Berskjaldað | 19.12.21 | Verkbeiðnakerfið Zammad nýtir elasticsearch | https://community.zammad.org/t/cve-2021-44228-cve-2021-45046-elasticsearch-users-be-aware/8256 |
