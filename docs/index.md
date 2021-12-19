@@ -119,3 +119,7 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | Apache Kafka | Í lagi | 16.12.21 | |https://kafka.apache.org/cve-list | 
 | Plex | Í lagi* | 18.12.21 | Formlega tilkynningu vantar frá framleiðanda | https://www.reddit.com/r/PleX/comments/rdolem/the_internet_is_on_fire_with_this_log4j/ |
 | Plesk | https://support.plesk.com/hc/en-us/articles/4412182812818-CVE-2021-44228-vulnerability-in-log4j-package-of-Apache |
+| Red Hat Enterprise Linux | Í lagi* | 19.12.21 | Red Hat Linux er í lagi, en mælt er með að keyra update | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 |
+| Red Hat Ansible | Í lagi | 19.12.21 | | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 | 
+| Red Hat ýmsar vörur | Í lagi | 19.12.21 | m.a. Certificate Sysetm, Directory Server, CloudForms, Satellite, Ceph, Gluster, Openstack platform (fyrir utan 13), RHEV | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 |
+| Red Hat ýmsar vörur | Berskjaldað | 19.12.21 | m.a. Red Hat Enterprise Application Platform 7, Openshift 4, Openshift 3.11, Fuse, OpenShift Logging, Openstack Platform 13, Process Automation Manager | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 |
