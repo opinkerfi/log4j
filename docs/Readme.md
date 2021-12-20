@@ -31,13 +31,13 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 
 ## Greinar
 
-### Nánari upplýsingar:
+### Nánari upplýsingar
 
 * [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
 * [CVE-2021-45046](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046)
 * [Fjarskiptastofa – Netöryggssveitin CERT-IS hefur virkjað samhæfingarferli vegna alvarlegs veikleika í algengum hugbúnaði](https://www.fjarskiptastofa.is/fjarskiptastofa/tolfraedi-og-gagnasafn/frettasafn/frett/fr%C3%A9ttir/netoryggssveitin-cert-is-hefur-virkjad-samhaefingarstod-vegna-alvarlegs-veikleika-i-algengum-hugbunadi)
 
-### Ráðleggingar eða yfirlýsingar frá birgjum:
+### Ráðleggingar eða yfirlýsingar frá birgjum
 
 * [Amazon](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)
 * [Microsoft](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)
@@ -53,22 +53,25 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 * [VEEAM](https://forums.veeam.com/veeam-backup-for-azure-f59/log4j-cve-2021-44228-vulnerability-t78225.html#p438231)
 * [Atlassian](https://confluence.atlassian.com/security/multiple-products-security-advisory-log4j-vulnerable-to-remote-code-execution-cve-2021-44228-1103069934.html)
 * [CloudFlare](https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/)
-* [Ahsay](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j)
+* [Ahsay]("https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j")
 * [Solarwinds](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228)
 
 ## Algengur hugbúnaður á íslandi
-Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur 
 
-| Hugbúnaður | Staða | Uppfært | Athugasemd | Nánari upplýsingar |
-| ---------- | ----- | ------- | ---------- | ------------------ |
-| Office 365       | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við.           | https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/
-| Microsoft 365    | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við.           | https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/
-| PowerBI          | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við.           | https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/
-| Minecraft        | Berskjaldað | 15.12.21 | Þarf að uppfæra í 1.18.1. Útgáfur undir 1.7 eru í lagi. | https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition
-| Unifi Video | Berskjaldað | 18.12.21 | Ekki er í boði patch frá framleiðanda, kerfi komið úr stuðningi | https://aikester.com/2021/addressing-the-log4j-vulnerability-in-unifi-video-3.10.13/ |
-| Unifi Controller | Berskjaldað | 15.12.21 | Komið út patch sem þarf að uppfæra í.                   | https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1
+Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
+
+?> Hlekkir undir **Hugbúnaður** eru tilvísanir í ráðleggingar eða skýringar frá framleiðanda.
+
+| Hugbúnaður | Staða | Uppfært | Athugasemd | 
+| ---------- | ----- | ------- | ---------- | 
+| [Office 365](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)       | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við. |
+| [Microsoft 365](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)    | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við. |
+| [PowerBI](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)          | Í lagi      | 15.12.21 | Microsoft telur að veikleikinn eigi ekki við. |
+| [Minecraft](https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition)        | Berskjaldað | 15.12.21 | Þarf að uppfæra í 1.18.1. Útgáfur undir 1.7 eru í lagi. |
+| [Unifi Video](https://aikester.com/2021/addressing-the-log4j-vulnerability-in-unifi-video-3.10.13/) | Berskjaldað | 18.12.21 | Ekki er í boði patch frá framleiðanda, kerfi komið úr stuðningi |
+| [Unifi Controller](https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1) | Berskjaldað | 15.12.21 | Komið út patch sem þarf að uppfæra í. |
 | Cisco Webex Meetings Server | Bergskjaldað + fix | 15.12.21 | Komið út fix CWMS-3.0MR4SP2 og CWMS-4.0MR4SP2 (CSCwa47283)| | 
-| Cisco Identity Services Engine (ISE)| Berskjaldað + hotfix | 15.12.21 | Hotfix komið fyrir 2.4, 2.6, 2.7, 3.0 og 3.1 (CSCwa47133) | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+| [Cisco Identity Services Engine (ISE)](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)| Berskjaldað + hotfix | 15.12.21 | Hotfix komið fyrir 2.4, 2.6, 2.7, 3.0 og 3.1 (CSCwa47133) | 
 | Cisco AnyConnect Secure Mobility Client | Í lagi | 15.12.21 | Anyconnect client er í lagi | 
 | Cisco Meraki | Í lagi | 15.12.21 | GO, MR, MS, MT, MV, MX, SM og Z-series |
 | Cisco Adaptive Security Appliance (ASA) & ASAv Software | Í lagi | 15.12.21 | ASA eldveggir í lagi | 
@@ -94,34 +97,49 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur
 | HPE StoreServ Management Console (SSMC) All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
 | HPE Hyper Converged 380 All versions | Berskjaldað | 15.12.21|| HPE vinnur að lausn  |
 | HPE 3PAR Service Processor All versions | Berskjaldað | 15.12.21 | HPE vinnur að lausn  |
-| Nagios | Í lagi | 15.12.21 | Nagios Core og Nagios XI | https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/ |
-| Zabbix | Í lagi | 18.12.21 | Vöktunarkerfið Zabbix | https://blog.zabbix.com/zabbix-not-affected-by-the-log4j-exploit/17873/ |
-| 1Password | Óvíst | 15.12.21 | Opinber tilkynning ekki komin, en gefið til kynna að það sé í lagi | https://1password.community/discussion/comment/622615 |
-| Citrix Hypervisor (XenServer) | Í lagi | 15.12.21 | XenServer er í lagi | https://support.citrix.com/article/CTX335705
-| Citrix Virtual Apps and Desktops (XenApp & XenDesktop) | Í skoðun | 15.12.21 | Er í greiningu hjá framleiðanda | https://support.citrix.com/article/CTX335705
-| Ahsay | | 15.12.21 | AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi | https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j |
-| TimeXtender | Í lagi | 15.12.21 |  | https://support.timextender.com/hc/en-us/articles/4413724826897-Apache-Log4j | 
-| MongoDB Atlas Search | Berskjaldað + fix | 15.12.21 |  | https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb |
+| [Nagios](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/) | Í lagi | 15.12.21 | Nagios Core og Nagios XI |  |
+| [Zabbix](https://blog.zabbix.com/zabbix-not-affected-by-the-log4j-exploit/17873/) | Í lagi | 18.12.21 | Vöktunarkerfið Zabbix |  |
+| [1Password](https://1password.community/discussion/comment/622615) | Óvíst | 15.12.21 | Opinber tilkynning ekki komin, en gefið til kynna að það sé í lagi |  |
+| [Citrix Hypervisor (XenServer)](https://support.citrix.com/article/CTX335705) | Í lagi | 15.12.21 | XenServer er í lagi | |
+| [Citrix Virtual Apps and Desktops (XenApp & XenDesktop)](https://support.citrix.com/article/CTX335705) | Í skoðun | 15.12.21 | Er í greiningu hjá framleiðanda | |
+| [Ahsay](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j) | | 15.12.21 | AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi | |
+| [TimeXtender](https://support.timextender.com/hc/en-us/articles/4413724826897-Apache-Log4j) | Í lagi | 15.12.21 |  |  | 
+| [MongoDB Atlas Search](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb) | Berskjaldað + fix | 15.12.21 |  |  |
 | MongoDB aðrar vörur | Í lagi | 15.12.21 | | | 
-| MariaDB | Í lagi | 15.12.21 | | https://mariadb.com/resources/blog/log4shell-and-mariadb-cve-2021-44228/ |
+| [MariaDB](https://mariadb.com/resources/blog/log4shell-and-mariadb-cve-2021-44228/) | Í lagi | 15.12.21 | |  |
 | Amazon S3 | Berskjaldað + lagað | 15.21.21 |  | |
-| Solarwinds Server & Application Monitor | Berskjaldað + fix | 15.12.21 |  | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
-| Solarwinds Database Performance Analyzer | Berskjaldað + fix |  15.12.21 | | https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 |
+| [Solarwinds Server & Application Monitor](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228) | Berskjaldað + fix | 15.12.21 |  |  |
+| [Solarwinds Database Performance Analyzer](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228) | Berskjaldað + fix |  15.12.21 | |  |
 | Solarwinds Orion Platform | Í lagi | 15.12.21 |  | |
-| Enghouse QMS | Berskjaldað | 16.12.21 | | https://github.com/opinkerfi/log4j/blob/560ff977d620513bf82f4eea15b4d863736bc9b1/docs/EXTERNAL_QMS_Enghouse_Log4j_vulnerability_statement_131221.pdf |
-| Tableau / Tableau Reader, Tableau Public Desktop Client | Berskjaldað | 16.12.21 | | https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell |
+| [Enghouse QMS](https://github.com/opinkerfi/log4j/blob/560ff977d620513bf82f4eea15b4d863736bc9b1/docs/EXTERNAL_QMS_Enghouse_Log4j_vulnerability_statement_131221.pdf) | Berskjaldað | 16.12.21 | |  |
+| [Tableau / Tableau Reader, Tableau Public Desktop Client](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell) | Berskjaldað | 16.12.21 | |  |
 | ATlassian Bitbucket Server | Berskjaldað | 16.12.21 | | |
 | Atlassian Confluence | Í lagi | 16.12.21 | | |
 | Atlassian Jira | Í lagi | 16.12.21 | | |
-| Splunk viðbætur | Berskjaldað | 16.12.21 | | https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html| 
-| Jenksins | Í lagi | 16.12.21 | Jenksins er í lagi, en skoða þarf viðbætur sérstaklega vel | https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/ |
+| [Splunk viðbætur](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) | Berskjaldað | 16.12.21 | | | 
+| [Jenksins](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) | Í lagi | 16.12.21 | Jenksins er í lagi, en skoða þarf viðbætur sérstaklega vel |  |
 | Discord | Uppl vantar | 16.12.21 | | |
-| Apache Kafka | Í lagi | 16.12.21 | |https://kafka.apache.org/cve-list | 
-| Plex | Í lagi* | 18.12.21 | Formlega tilkynningu vantar frá framleiðanda | https://www.reddit.com/r/PleX/comments/rdolem/the_internet_is_on_fire_with_this_log4j/ |
-| Plesk | https://support.plesk.com/hc/en-us/articles/4412182812818-CVE-2021-44228-vulnerability-in-log4j-package-of-Apache |
-| Red Hat Enterprise Linux | Í lagi* | 19.12.21 | Red Hat Linux er í lagi, en mælt er með að keyra update | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 |
+| [Apache Kafka](https://kafka.apache.org/cve-list) | Í lagi | 16.12.21 | | | 
+| [Plex](https://www.reddit.com/r/PleX/comments/rdolem/the_internet_is_on_fire_with_this_log4j/) | Í lagi* | 18.12.21 | Formlega tilkynningu vantar frá framleiðanda |  |
+| [Plesk](https://support.plesk.com/hc/en-us/articles/4412182812818-CVE-2021-44228-vulnerability-in-log4j-package-of-Apache) | Í lagi | 16.12.21 |
+| [Red Hat Enterprise Linux](https://access.redhat.com/security/vulnerabilities/RHSB-2021-009) | Í lagi* | 19.12.21 | Red Hat Linux er í lagi, en mælt er með að keyra update |  |
 | Red Hat Ansible | Í lagi | 19.12.21 | | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 | 
-| Red Hat ýmsar vörur | Í lagi | 19.12.21 | m.a. Certificate Sysetm, Directory Server, CloudForms, Satellite, Ceph, Gluster, Openstack platform (fyrir utan 13), RHEV | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 |
-| Red Hat ýmsar vörur | Berskjaldað | 19.12.21 | m.a. Red Hat Enterprise Application Platform 7, Openshift 4, Openshift 3.11, Fuse, OpenShift Logging, Openstack Platform 13, Process Automation Manager | https://access.redhat.com/security/vulnerabilities/RHSB-2021-009 |
-| Elasticserach | Berskjaldað | 19.12.21 | | https://discuss.elastic.co/t/elasticsearch-5-0-0-5-6-10-and-6-0-0-6-3-2-log4j-cve-2021-44228-cve-2021-45046-remediation/292054 |
-| Zammad | Berskjaldað | 19.12.21 | Verkbeiðnakerfið Zammad nýtir elasticsearch | https://community.zammad.org/t/cve-2021-44228-cve-2021-45046-elasticsearch-users-be-aware/8256 |
+| [Red Hat ýmsar vörur](https://access.redhat.com/security/vulnerabilities/RHSB-2021-009) | Í lagi | 19.12.21 | m.a. Certificate Sysetm, Directory Server, CloudForms, Satellite, Ceph, Gluster, Openstack platform (fyrir utan 13), RHEV |  |
+| [Red Hat ýmsar vörur](https://access.redhat.com/security/vulnerabilities/RHSB-2021-009) | Berskjaldað | 19.12.21 | m.a. Red Hat Enterprise Application Platform 7, Openshift 4, Openshift 3.11, Fuse, OpenShift Logging, Openstack Platform 13, Process Automation Manager |  |
+| [Elasticserach](https://discuss.elastic.co/t/elasticsearch-5-0-0-5-6-10-and-6-0-0-6-3-2-log4j-cve-2021-44228-cve-2021-45046-remediation/292054) | Berskjaldað | 19.12.21 | |  |
+| [Zammad](https://community.zammad.org/t/cve-2021-44228-cve-2021-45046-elasticsearch-users-be-aware/8256) | Berskjaldað | 19.12.21 | Verkbeiðnakerfið Zammad nýtir elasticsearch |  |
+
+
+## Um þessa síðu
+
+Þessi síða er styrkt af Opnum Kerfum og er viðhaldið af starfsfólki Opinna Kerfa. Ef þú ert með athugasemd eða upplýsingar sem þú vilt sjá á þessari síðu þá er það velkomið að senda inn breytingar og viðbætur.
+
+
+### Get ég hjálpað?
+
+Öllum er frjálst að leggja til breytingar á þessari síðu. Ef þú vilt leggja lið, þá mælum við með eftirfarandi verklagi:
+
+1. Forka [log4j](https://github.com/opinkerfi/log4j) kóðahirsluna inn á github
+2. Uppfæra efni á forsíðu eða stofna aðrar síður.
+3. Framkvæma breytingar á forsíðu `docs/Readme.md` eða með því að stofna aðrar síður undir `docs/`
+4. Búa til pull request sem verður yfirfarið.
