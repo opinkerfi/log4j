@@ -143,3 +143,5 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
 2. Uppfæra efni á forsíðu eða stofna aðrar síður.
 3. Framkvæma breytingar á forsíðu `docs/Readme.md` eða með því að stofna aðrar síður undir `docs/`
 4. Búa til pull request sem verður yfirfarið.
+
+?> Síðan er skjöluð í markdown texta og birt gegnum [Docsify](https://docsify.js.org). Ef þú ert ekki kunnug(ur) Markdown þá má sjá dæmi um rithátt [hér](https://www.markdownguide.org/cheat-sheet/)
