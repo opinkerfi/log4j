@@ -53,7 +53,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 * [VEEAM](https://forums.veeam.com/veeam-backup-for-azure-f59/log4j-cve-2021-44228-vulnerability-t78225.html#p438231)
 * [Atlassian](https://confluence.atlassian.com/security/multiple-products-security-advisory-log4j-vulnerable-to-remote-code-execution-cve-2021-44228-1103069934.html)
 * [CloudFlare](https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/)
-* [Ahsay]("https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j")
+* [Ahsay](https://wiki.ahsay.com/doku.php?id=public__colon__announcement__colon__cve-2021-44228_log4j)
 * [Solarwinds](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228)
 
 ## Algengur hugbúnaður á íslandi
@@ -102,7 +102,7 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
 | [1Password](https://1password.community/discussion/comment/622615) | Óvíst | 15.12.21 | Opinber tilkynning ekki komin, en gefið til kynna að það sé í lagi |  |
 | [Citrix Hypervisor (XenServer)](https://support.citrix.com/article/CTX335705) | Í lagi | 15.12.21 | XenServer er í lagi | |
 | [Citrix Virtual Apps and Desktops (XenApp & XenDesktop)](https://support.citrix.com/article/CTX335705) | Í skoðun | 15.12.21 | Er í greiningu hjá framleiðanda | |
-| [Ahsay](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j) | | 15.12.21 | AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi | |
+| [Ahsay](https://wiki.ahsay.com/doku.php?id=public__colon__announcement__colon__cve-2021-44228_log4j) | Bergskjaldað + fix | 15.12.21 | AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi |
 | [TimeXtender](https://support.timextender.com/hc/en-us/articles/4413724826897-Apache-Log4j) | Í lagi | 15.12.21 |  |  | 
 | [MongoDB Atlas Search](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb) | Berskjaldað + fix | 15.12.21 |  |  |
 | MongoDB aðrar vörur | Í lagi | 15.12.21 | | | 
