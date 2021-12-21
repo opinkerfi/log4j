@@ -72,10 +72,10 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 
 ## Algengur hugbúnaður á íslandi
 
-Hér er að finna lista yfir hugbúnað, búnað og kerfi sem eru algeng á Íslandi.
+Hér er að finna lista yfir hugbúnað, búnað og kerfi sem eru algeng á Íslandi. Upplýsingar um stöðu eru byggðar á heimildum og mælt er með að fólk kynnir sér upplýsingar frá framleiðanda betur þar sem við á.
 
-* **Í lagi** = Svo best sem vitað er inniheldur kerfið ekki veikleikann.
-* **í lagi* ** = Svo best sem vitað er inniheldur kerfið ekki veikleikann en sjá athugasemd/heimild.
+* **Í lagi** = Inniheldur ekki veikleikann.
+* **í lagi\*** = Inniheldur ekki veikleikann en sjá athugasemd/heimild.
 * **Berskjaldað** = Kerfið inniheldur veikleikann og mælt er með að kynna sér betur hvort að úrlausn sé komin.
 * **Óvíst** = Óljóst er hvort að kerfið inniheldur veikleikann eða ekki.
 
