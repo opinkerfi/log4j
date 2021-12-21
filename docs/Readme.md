@@ -72,7 +72,12 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 
 ## Algengur hugbúnaður á íslandi
 
-Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
+Hér er að finna lista yfir hugbúnað, búnað og kerfi sem eru algeng á Íslandi.
+
+* **Í lagi** = Svo best sem vitað er inniheldur kerfið ekki veikleikann.
+* **í lagi*** = Svo best sem vitað er inniheldur kerfið ekki veikleikann en sjá athugasemd/heimild.
+* **Berskjaldað** = Kerfið inniheldur veikleikann og mælt er með að kynna sér betur hvort að úrlausn sé komin.
+* **Óvíst** = Óljóst er hvort að kerfið inniheldur veikleikann eða ekki.
 
 ?> Hlekkir undir **Heimild** eru tilvísanir í ráðleggingar eða skýringar frá framleiðanda. 
 
@@ -84,8 +89,8 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
 |  Minecraft |  Berskjaldað  |  15.12.21  |  Þarf að uppfæra í 1.18.1. Útgáfur undir 1.7 eru í lagi.  | [Nánari upplýsingar](https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition        ) | 
 |  Unifi Video |  Berskjaldað  |  18.12.21  |  Ekki er í boði patch frá framleiðanda, kerfi komið úr stuðningi  | [Nánari upplýsingar](https://aikester.com/2021/addressing-the-log4j-vulnerability-in-unifi-video-3.10.13/ ) | 
 |  Unifi Controller |  Berskjaldað  |  15.12.21  |  Komið út patch sem þarf að uppfæra í.  | [Nánari upplýsingar](https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1 ) | 
-|  Cisco Webex Meetings Server  |  Bergskjaldað + fix  |  15.12.21  |  Komið út fix CWMS-3.0MR4SP2 og CWMS-4.0MR4SP2 (CSCwa47283) |  | 
-|  Cisco Identity Services Engine (ISE) |  Berskjaldað + hotfix  |  15.12.21  |  Hotfix komið fyrir 2.4, 2.6, 2.7, 3.0 og 3.1 (CSCwa47133)  | [Nánari upplýsingar](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) | 
+|  Cisco Webex Meetings Server  |  Bergskjaldað  |  15.12.21  |  Komið út fix CWMS-3.0MR4SP2 og CWMS-4.0MR4SP2 (CSCwa47283) |  | 
+|  Cisco Identity Services Engine (ISE) |  Berskjaldað  |  15.12.21  |  Hotfix komið fyrir 2.4, 2.6, 2.7, 3.0 og 3.1 (CSCwa47133)  | [Nánari upplýsingar](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) | 
 |  Cisco AnyConnect Secure Mobility Client  |  Í lagi  |  15.12.21  |  Anyconnect client er í lagi  |  | 
 |  Cisco Meraki  |  Í lagi  |  15.12.21  |  GO, MR, MS, MT, MV, MX, SM og Z-series  |  | 
 |  Cisco Adaptive Security Appliance (ASA) & ASAv Software  |  Í lagi  |  15.12.21  |  ASA eldveggir í lagi  |  | 
@@ -97,7 +102,7 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
 |  Cisco Catalyst 9100 Series Access Points  |  Í lagi  |  15.12.21  |  Cisco catalyst 9100 þráðlausir punktar  |  | 
 |  Cisco Catalyst 9800 Series Wireless Controllers  |  Í lagi  |  15.12.21  |  Cisco Catalyst 9800 þráðlausir controllerar  |  | 
 |  Cisco IOS Access Points  |  Í lagi  |  15.12.21  |  Cisco IOS þráðlausir punktar  |  | 
-|  Cisco DNA Center  |  Berskjaldað + fix  |  15.12.21  |  Fix komið (CSCwa47322)  |  | 
+|  Cisco DNA Center  |  Berskjaldað  |  15.12.21  |  Fix komið (CSCwa47322)  |  | 
 |  Cisco Email Security Appliance (ESA)  |  Í lagi  |  15.12.21  |   |  | 
 |  Cisco Web Security Appliance (WSA)  |  Í lagi  |  15.12.21  |   |  | 
 |  Cisco Modeling Labs  |  Í lagi  |  15.12.21  |   |  | 
@@ -116,14 +121,14 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
 |  1Password |  Óvíst  |  15.12.21  |  Opinber tilkynning ekki komin, en gefið til kynna að það sé í lagi  | [Nánari upplýsingar](https://1password.community/discussion/comment/622615 ) | 
 |  Citrix Hypervisor (XenServer) |  Í lagi  |  15.12.21  |  XenServer er í lagi  | [Nánari upplýsingar](https://support.citrix.com/article/CTX335705 ) | 
 |  Citrix Virtual Apps and Desktops (XenApp & XenDesktop) |  Í skoðun  |  15.12.21  |  Er í greiningu hjá framleiðanda  | [Nánari upplýsingar](https://support.citrix.com/article/CTX335705 ) | 
-|  Ahsay |  Bergskjaldað + fix  |  15.12.21  |  AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi  | [Nánari upplýsingar](https://wiki.ahsay.com/doku.php?id=public__colon__announcement__colon__cve-2021-44228_log4j ) | 
+|  Ahsay |  Bergskjaldað  |  15.12.21  |  AhsayCBS, AhsayOBM, AhsayACB, AhsayUBS 8.5.4.86 (og nýrra) og 7.17.2.2 (með hotfix 7.17.2.127+) og útgáfur undir 6.29.x) í lagi  | [Nánari upplýsingar](https://wiki.ahsay.com/doku.php?id=public__colon__announcement__colon__cve-2021-44228_log4j ) | 
 |  TimeXtender |  Í lagi  |  15.12.21  |    | [Nánari upplýsingar](https://support.timextender.com/hc/en-us/articles/4413724826897-Apache-Log4j ) | 
-|  MongoDB Atlas Search |  Berskjaldað + fix  |  15.12.21  |    | [Nánari upplýsingar](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb ) | 
+|  MongoDB Atlas Search |  Berskjaldað  |  15.12.21  |    | [Nánari upplýsingar](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb ) | 
 |  MongoDB aðrar vörur  |  Í lagi  |  15.12.21  |   |  | 
 |  MariaDB |  Í lagi  |  15.12.21  |   | [Nánari upplýsingar](https://mariadb.com/resources/blog/log4shell-and-mariadb-cve-2021-44228/ ) | 
-|  Amazon S3  |  Berskjaldað + lagað  |  15.21.21  |    |  | 
-|  Solarwinds Server & Application Monitor |  Berskjaldað + fix  |  15.12.21  |    | [Nánari upplýsingar](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 ) | 
-|  Solarwinds Database Performance Analyzer |  Berskjaldað + fix  |   15.12.21  |   | [Nánari upplýsingar](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 ) | 
+|  Amazon S3  |  Berskjaldað  |  15.21.21  |    |  | 
+|  Solarwinds Server & Application Monitor |  Berskjaldað  |  15.12.21  |    | [Nánari upplýsingar](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 ) | 
+|  Solarwinds Database Performance Analyzer |  Berskjaldað  |   15.12.21  |   | [Nánari upplýsingar](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228 ) | 
 |  Solarwinds Orion Platform  |  Í lagi  |  15.12.21  |    |  | 
 |  Enghouse QMS |  Berskjaldað  |  16.12.21  |   | [Nánari upplýsingar](https://github.com/opinkerfi/log4j/blob/560ff977d620513bf82f4eea15b4d863736bc9b1/docs/EXTERNAL_QMS_Enghouse_Log4j_vulnerability_statement_131221.pdf ) | 
 |  Tableau / Tableau Reader, Tableau Public Desktop Client |  Berskjaldað  |  16.12.21  |   | [Nánari upplýsingar](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell ) | 
@@ -132,7 +137,7 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
 |  Atlassian Jira  |  Í lagi  |  16.12.21  |   |  | 
 |  Splunk viðbætur |  Berskjaldað  |  16.12.21  |   | [Nánari upplýsingar](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html ) | 
 |  Jenksins |  Í lagi  |  16.12.21  |  Jenksins er í lagi, en skoða þarf viðbætur sérstaklega vel  | [Nánari upplýsingar](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/ ) | 
-|  Discord  |  Uppl vantar  |  16.12.21  |   |  | 
+|  Discord  |  óvíst  |  16.12.21  |   |  | 
 |  Apache Kafka |  Í lagi  |  16.12.21  |   | [Nánari upplýsingar](https://kafka.apache.org/cve-list ) | 
 |  Plex |  Í lagi*  |  18.12.21  |  Formlega tilkynningu vantar frá framleiðanda  | [Nánari upplýsingar](https://www.reddit.com/r/PleX/comments/rdolem/the_internet_is_on_fire_with_this_log4j/ ) | 
 |  Plesk |  Í lagi  |  16.12.21  |  | [Nánari upplýsingar](https://support.plesk.com/hc/en-us/articles/4412182812818-CVE-2021-44228-vulnerability-in-log4j-package-of-Apache ) | 
