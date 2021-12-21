@@ -2,7 +2,9 @@
 
 ## Upplýsingar
 
-Þann 9. desember var opinberaður alvarlegur veikleiki ([CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228) & [CVE-2021-45046](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046)) í hugbúnaðarpakka sem kallast Apache Log4j. Þessi hugbúnaður er notaður sem hjálpartól í mörgum þekktum og útbreiddum hugbúnaði. Um er að ræða Java hugbúnað sem finnst á fjölmörgum stöðum á internetinu og innan fyrirtækja.
+Þann 9. desember 2021 var opinberaður alvarlegur veikleiki ([CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228) & [CVE-2021-45046](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046)) í hugbúnaðarpakka sem kallast Apache Log4j. Þessi hugbúnaður er notaður sem hjálpartól í mörgum þekktum og útbreiddum hugbúnaði. Um er að ræða Java hugbúnað sem finnst á fjölmörgum stöðum á internetinu og innan fyrirtækja.
+
+Þann 16 desember 2021 var opinberaður annar veikleiki [CVE-2021-45105](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45105) sem fær CVSS skorið 7.5 af 10. Þessi veikleiki getur kæft (DDoS) hugbúnað byggðan á Log4J þannig að hann hætti að virka. Gallinn er að finna í útgáfum 2.0-alpha1 til 2.16.0. Mælt er með að uppfæra í 2.17.0. 
 
 Hlutverk Log4j sem hjálpartól er að halda utan um og skrá upplýsingar sem geta meðal annars verið upplýsingar sem notendur kerfa t.d. vefkerfa láta frá sér, en getur einnig verið upplýsingar sem geta komið í gegnum tölvupóst eða aðrar leiðir svo lengi sem Log4j er að taka við upplýsingunum.
 
@@ -35,9 +37,21 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 
 * [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
 * [CVE-2021-45046](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046)
+* [CVE-2021-45105](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45105)
 * [Fjarskiptastofa – Netöryggssveitin CERT-IS hefur virkjað samhæfingarferli vegna alvarlegs veikleika í algengum hugbúnaði](https://www.fjarskiptastofa.is/fjarskiptastofa/tolfraedi-og-gagnasafn/frettasafn/frett/fr%C3%A9ttir/netoryggssveitin-cert-is-hefur-virkjad-samhaefingarstod-vegna-alvarlegs-veikleika-i-algengum-hugbunadi)
 
-### Ráðleggingar eða yfirlýsingar frá birgjum
+### Ráðleggingar eða yfirlýsingar íslenskum fyrirtækjum
+* [Advania](https://www.advania.is/um-advania/frettaveita/efnisveita/frett/2021/12/13/Vidbragd-vid-Log4j-oryggisveikleikanum/)
+* [Opin Kerfi](https://opinkerfi.is/vidbrogd-vid-log4j-veikleika-cve-2021-44228/)
+* [Origo](https://www.origo.is/um-origo/frettir/alvarlegur-oryggisveikleiki)
+* [Sensa](https://sensa.is/log4j2-veikleikinn/)
+* [Síminn](https://www.siminn.is/frettir/vegna-log4j-veikleika)
+* [Vodafone](https://vodafone.is/frettir/frettir/2021/12/16/Log4j-veikleiki-Unnid-i-samraemi-vid-aaetlanir/)
+* [Wise](https://wise.is/2021/12/13/vidbragd-vid-log4j-oryggisveikleikanum-2/)
+* [Þekking](https://www.thekking.is/oryggisveikleiki-i-java-kodasafni-log4shell)
+
+
+### Ráðleggingar eða yfirlýsingar frá birgjum og hugbúnaðarframleiðendum
 
 * [Amazon](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)
 * [Microsoft](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)
