@@ -74,7 +74,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 
 Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
 
-?> Hlekkir undir **Hugbúnaður** eru tilvísanir í ráðleggingar eða skýringar frá framleiðanda.
+?> Hlekkir undir **Heimild** eru tilvísanir í ráðleggingar eða skýringar frá framleiðanda. 
 
 | Hugbúnaður | Staða | Uppfært | Athugasemd | Heimild |
 | ---------- | ----- | ------- | ---------- | ------- |
