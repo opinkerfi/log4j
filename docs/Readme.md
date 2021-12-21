@@ -75,7 +75,7 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 Hér er að finna lista yfir hugbúnað, búnað og kerfi sem eru algeng á Íslandi.
 
 * **Í lagi** = Svo best sem vitað er inniheldur kerfið ekki veikleikann.
-* **í lagi*** = Svo best sem vitað er inniheldur kerfið ekki veikleikann en sjá athugasemd/heimild.
+* **í lagi* ** = Svo best sem vitað er inniheldur kerfið ekki veikleikann en sjá athugasemd/heimild.
 * **Berskjaldað** = Kerfið inniheldur veikleikann og mælt er með að kynna sér betur hvort að úrlausn sé komin.
 * **Óvíst** = Óljóst er hvort að kerfið inniheldur veikleikann eða ekki.
 
