@@ -143,7 +143,10 @@ Hér er að finna lista yfir hugbúnað, búnað og kerfi sem er algengur.
 |  Elasticserach |  Berskjaldað  |  19.12.21  |   | [Nánari upplýsingar](https://discuss.elastic.co/t/elasticsearch-5-0-0-5-6-10-and-6-0-0-6-3-2-log4j-cve-2021-44228-cve-2021-45046-remediation/292054 ) | 
 |  Zammad |  Berskjaldað  |  19.12.21  |  Verkbeiðnakerfið Zammad nýtir elasticsearch  | [Nánari upplýsingar](https://community.zammad.org/t/cve-2021-44228-cve-2021-45046-elasticsearch-users-be-aware/8256 ) | 
 |  Datto  | Í lagi  |  20.12.21  |  Sem dæmi Autotask og aðrar datto vörur  |  [Nánari upplýsingar](https://www.datto.com/blog/dattos-response-to-log4shell) |
-
+|  3CX  |  Í lagi  |  21.12.21  |  3CX hugbúnaður virðist vera í lagi  |  [Nánari upplýsingar](https://www.3cx.com/community/threads/log4j-vulnerability-cve-2021-44228.86436/#post-407911) |
+|  7-Zip  |  Í lagi  |  21.12.21  |   |  [Mánari upplýsingar](https://sourceforge.net/p/sevenzip/discussion/45797/thread/b977bbd4d1/)  |
+|  Activestate  |  Í lagi  |  21.12.21  |   |  [Nánari upplýsingar](https://www.activestate.com/blog/activestate-statement-java-log4j-vulnerability/)  |
+|  Audiocodes  |  Berskjaldað  |  21.12.21  |  ARM og SmartTap eru berskjaldað og mælt með að uppfæra. Aðrar í lagi  |  [Nánari upplýsingar](https://services.audiocodes.com/app/answers/kbdetail/a_id/2225)  | 
 
 ## Um þessa síðu
 
